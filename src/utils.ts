@@ -59,7 +59,7 @@ export async function buildUniversalKeyboard(
         },
         {
             text: 'Open Link',
-            url: `https://ton-connect.github.io/open-tc?connect=${encodeURIComponent(link)}`
+            url: `https://googgoog.github.io/open-tc?connect=${encodeURIComponent(link)}`
         }
     ];
 
